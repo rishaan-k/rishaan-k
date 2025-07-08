@@ -43,22 +43,18 @@ fun_fact: "I turn complex problems into elegant code and compelling narratives"
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%">
+<div>
 
-### 🤖 **VideoVerse** 
-**Applied AI Intern** `May 2025 - Present`
+**🤖 VideoVerse**  
+*Applied AI Intern* • `May 2025 - Present`  
+┃  
+┣━━ **☁️ DuploCloud**  
+┃   *Software Engineer Intern* • `May 2024 - Aug 2024`  
+┃  
+┗━━ **🎓 University of Wisconsin-Madison**  
+    *B.S. Computer Science, B.S. Film* • `Aug 2022 - May 2026`
 
-</td>
-<td width="50%">
-
-### ☁️ **DuploCloud**
-**Software Engineer Intern** `May 2024 - Aug 2024`
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
