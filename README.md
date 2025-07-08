@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Rishaan Kumar
+# 👋 Hi, I'm Rishaan!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;CS+%2B+Film+Student;AI+Enthusiast;Storyteller+with+Code;Radio+Host+%40+WSUM" alt="Typing SVG" />
 
@@ -30,12 +30,11 @@ education:
   graduation: "May 2026"
 current_role: "Applied AI Intern @ VideoVerse"
 passions: ["Full Stack Development", "Machine Learning", "Storytelling", "Soccer"]
-fun_fact: "I turn complex problems into elegant code and compelling narratives"
 ```
 
 <div align="center">
 
-### 🎯 *"Always seeking the next opportunity to learn, create, and connect ideas across disciplines"*
+### "I’m a double-major in Computer Science and Communication Arts at UW-Madison, who loves turning complex problems into elegant code and compelling narratives. Whether collaborating in hackathons, contributing to research, or exploring new frameworks, I’m always seeking the next opportunity to learn, create, and connect ideas across disciplines"
 
 </div>
 
@@ -85,39 +84,4 @@ fun_fact: "I turn complex problems into elegant code and compelling narratives"
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| 🎵 **Wrappedly** | 🌊 **Lake Mendota Analysis** | 📊 **Covid-O-Grapher** |
-|:---:|:---:|:---:|
-| *Your personal Spotify data tracker* | *Predictive Climate Modeling* | *COVID-19 Tracking Tools* |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| [🔗 View Project](https://github.com/rishaan-k/trackthespot) | [🔗 View Project](https://github.com/rishaan-k/Lake-Mendota-Ice-Analysis) | [🔗 View Project](https://github.com/rishaan-k/covid-o-grapher) |
-
-</div>
-
-### 🚧 Currently Building
-- **Top Bins Trivia**: Soccer-based multiplayer web app with games like Tiki Taka Toe ⚽
-- **Personal Portfolio**: Showcasing projects and experiences at [rishaan.studio](https://rishaan.studio/)
-
----
-
-<div align="center">
-
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishaan-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishaan-k&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%">
-
-</div>
-
----
-
-<div align="center">
-<i>⭐ Star my repositories if you find them interesting!</i>
 </div>
